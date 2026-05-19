@@ -180,11 +180,5 @@ Mumbai · Chennai · Bangalore · Kolkata · Delhi · Jaipur · Hyderabad · Cha
 
 ---
 
-## 📄 License
-
-MIT License — free to use, modify, and distribute.
-
----
-
 *Built with ❤️ using Random Forest · scikit-learn · Flask*
 ```
