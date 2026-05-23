@@ -1,7 +1,7 @@
 # IPL-Match-Winner-Predictor-using-Random-Forest
 ```markdown
 
-An end-to-end Machine Learning project that predicts IPL match winners using a **Random Forest Classifier**, complete with a Flask web application featuring a professional dark-themed dashboard.
+An end-to-end Machine Learning project that predicts IPL match winners using a Random Forest Classifier, complete with a Flask web application featuring a professional dark-themed dashboard.
 
 ---
 
