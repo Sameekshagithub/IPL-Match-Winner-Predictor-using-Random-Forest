@@ -3,10 +3,9 @@
 
 An end-to-end Machine Learning project that predicts IPL match winners using a Random Forest Classifier, complete with a Flask web application featuring a professional dark-themed dashboard.
 
-
+```
 ## 📁 Project Structure
 
-```
 IPL_Match_Prediction.ipynb   ← Single notebook (everything inside)
 ipl_rf_model.pkl             ← Auto-generated after training
 ```
